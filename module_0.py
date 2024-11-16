@@ -1,5 +1,4 @@
 "1st program"
-from os import remove
 
 numb_1 = 9**0.5*5
 print(numb_1)
